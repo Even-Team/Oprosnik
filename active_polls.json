@@ -1,0 +1,11 @@
+{
+  "1": {
+    "question": "Ты гей?",
+    "active": false,
+    "answers": {}
+  },
+  "2": {
+    "question": "Проверка связи... \nГалина чмо?",
+    "active": false
+  }
+}
