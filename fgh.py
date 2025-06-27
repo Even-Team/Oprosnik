@@ -19,7 +19,7 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 # Конфигурация
-BOT_TOKEN = '7826372814:AAHsZi3L2iDZek7gH-fP3V68Z-qVxL-pu0s'
+BOT_TOKEN = ''
 ADMIN_USERNAME = 'Comrade_KIlka'
 POLLS_FILE = 'active_polls.json'
 ANSWERS_FILE = 'user_answers.json'
